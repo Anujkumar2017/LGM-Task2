@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/LGM-Task2/static/js/main.f48c1656.chunk.js",
+    "main.js.map": "/LGM-Task2/static/js/main.f48c1656.chunk.js.map",
+    "runtime-main.js": "/LGM-Task2/static/js/runtime-main.3ad3db06.js",
+    "runtime-main.js.map": "/LGM-Task2/static/js/runtime-main.3ad3db06.js.map",
+    "static/js/2.0d782fd0.chunk.js": "/LGM-Task2/static/js/2.0d782fd0.chunk.js",
+    "static/js/2.0d782fd0.chunk.js.map": "/LGM-Task2/static/js/2.0d782fd0.chunk.js.map",
+    "index.html": "/LGM-Task2/index.html",
+    "static/js/2.0d782fd0.chunk.js.LICENSE.txt": "/LGM-Task2/static/js/2.0d782fd0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ad3db06.js",
+    "static/js/2.0d782fd0.chunk.js",
+    "static/js/main.f48c1656.chunk.js"
+  ]
+}
